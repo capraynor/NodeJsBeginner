@@ -17,3 +17,8 @@ function execute(someFunction, value) {
 }
 
 execute(say, "Hello"); // 调用的时候say就成了execute的变量。
+
+//请打开AnonymousFunction.js 查看如何创建匿名函数
+
+
+
