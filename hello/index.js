@@ -1,5 +1,7 @@
 /**
  * Created by raynorchan on 15-9-30.
+ * 该例子实现了一个基本的Web服务器。
+ * 请使用node index.js 来运行
  */
 var http = require("http");
 
