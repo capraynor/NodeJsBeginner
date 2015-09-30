@@ -13,15 +13,11 @@ todo:
 
 ajax前端和后端交互 （在数据库之后）
 
-反向代理/高负载/负载测试（apache benchmark）
+反向代理/高负载/负载测试 benchmark
 
 promise 阻止 callback hell 的各种方法
 
-单元测试 （mocha/chai）
-
-爬虫（cheerIO）
-
-
+单元测试
 
 
 
