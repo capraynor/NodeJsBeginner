@@ -9,7 +9,7 @@ todo:
 
 使用npm（与数据库同时）
 
-使用模板引擎 Jade等 （Jade对前端不友好）
+使用模板引擎 Jade等
 
 ajax前端和后端交互 （在数据库之后）
 
@@ -20,7 +20,6 @@ promise 阻止 callback hell 的各种方法
 单元测试 （mocha/chai）
 
 爬虫（cheerIO）
-
 
 
 
