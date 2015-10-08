@@ -17,7 +17,7 @@ var StudentsSchema = Schema({
         type:String,
         required:true
     },
-    Id:{
+    id:{
         type:String,
         required:true
     }
